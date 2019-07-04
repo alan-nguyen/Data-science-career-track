@@ -18,5 +18,19 @@ This career track is from [Datacamp](https://www.datacamp.com/tracks/data-scient
 11. Analyzing Police Activity with pandas
 12. Intro to SQL for Data Science
 13. Introduction to Relational Databases in SQL
-14. Introductio nto Data Visualization with Python
+14. Introductio to Data Visualization with Python
 15. Interactive Data Visualization with Bokeh
+16. Statistical Thinking in Python 1
+17. Statistical Thinking in Python 2
+18. Joing Data in SQL
+19. Introduction to Shell for Data Science
+20. Conda Essentials
+21. Supervised Learning with scikit-learn
+22. ML with experts School budgets
+23. Unsupervised Learning
+24. ML with Tree-based models
+25. Deep Learning
+26. Network Analysis 1
+
+
+
