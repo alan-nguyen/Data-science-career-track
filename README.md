@@ -18,7 +18,7 @@ This career track is from [Datacamp](https://www.datacamp.com/tracks/data-scient
 11. Analyzing Police Activity with pandas
 12. Intro to SQL for Data Science
 13. Introduction to Relational Databases in SQL
-14. Introductio to Data Visualization with Python
+[14. Introduction to Data Visualization with Python](https://github.com/alan-nguyen/Data-scientist-with-Python-career-track/tree/master/14-Data%20Visualization)
 15. Interactive Data Visualization with Bokeh
 16. Statistical Thinking in Python 1
 17. Statistical Thinking in Python 2
